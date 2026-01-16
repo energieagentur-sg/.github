@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.png" alt="Energieagentur St.Gallen Banner" width="100%" />
+  <img src="./banner.jpg" alt="Energieagentur St.Gallen Banner" width="100%" />
 
   <h1>Energieagentur St.Gallen</h1>
   
