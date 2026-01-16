@@ -95,7 +95,7 @@ Our daily work is based on our values, which are supported by our employees and 
 
 ### Contact Us
 
-[Website](https://www.energieagentur-sg.ch) • [LinkedIn](https://www.linkedin.com/company/energieagentur-st-gallen) • [Email](mailto:info@energieagentur-sg.ch)
+[Website](https://www.energieagentur-sg.ch) • [LinkedIn](https://www.linkedin.com/company/energieagentur-st-gallen-gmbh) • [Email](mailto:info@energieagentur-sg.ch)
 
 <p align="right">
   <small>
